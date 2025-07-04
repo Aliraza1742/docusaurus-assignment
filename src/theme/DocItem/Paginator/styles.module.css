@@ -1,0 +1,21 @@
+.customPaginator a {
+  background-color: #d13535be;               
+  color: white;
+  padding: 0.65rem 0.5rem;
+  margin-top: 2rem; 
+  border-radius: 0.5rem;
+  text-align: center;
+  font-weight: 500;
+  font-size: 1rem;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  display: inline-block;
+  border: 3px solid red; 
+  margin: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.customPaginator a:hover {
+  background-color: #c2262670;      
+  border-color: rgb(197, 123, 53);      
+}
